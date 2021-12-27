@@ -53,3 +53,9 @@ various features.
   - Helps company to retain their customers.
   - Maximize the Sell.
   - Better targeting the customers.
+
+## Customer_Data_set.csv <br/>
+  The [Customer_Data_set.csv](https://github.com/sohamdixit81/Customer-Segmentation-Using-Machine-Learning/blob/main/Customer_Data_set.csv) file contains the data set of Customer.
+  
+## Project.py <br/>
+  The [Project.py](https://github.com/sohamdixit81/Customer-Segmentation-Using-Machine-Learning/blob/main/Project.py) file contains the code of project.
