@@ -1,5 +1,14 @@
 # Customer-Segmentation-Using-Machine-Learning
-### Final Year Engineering Project
+### Final Year Engineering Project 
+Prof. Nikhil Patankar, Soham Dixit, Akshay Bhamare, Ashutosh Darpel and Ritik Raina
+Dept. Of Information Technology Sanjivani College of Engineering, Kopargaon 423601 (MH), India. <br/>
+Recent Trends in Intensive Computing <br/>
+M. Rajesh et al. (Eds.) <br/>
+© 2021 The authors and IOS Press. <br/>
+This article is published online with Open Access by IOS Press and distributed under the terms
+of the Creative Commons Attribution Non-Commercial License 4.0 (CC BY-NC 4.0).
+doi:10.3233/APC210200
+
 ### Paper Published in IOSpress https://ebooks.iospress.nl/volumearticle/58318
 
 
@@ -39,7 +48,7 @@ various features.
 
 ## Software Requirement 
   - Python Language
-  - Jupiter Notebook
+  - Jupyter Notebook
   - Python Libraries
   - scikit-learn
   - seaborn
